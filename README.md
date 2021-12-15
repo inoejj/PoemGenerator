@@ -1,4 +1,9 @@
 # PoemGenerator
+
+<p align="center">
+<img src="/images/wordcloud2.png" alt="drawing" width="350" />
+</p>
+
 *'Do not worry. You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence that you know.' So finally I would write one true sentence, and then go on from there.*- Ernest Hemingway, A Moveable Feast
 
 Have fun generating poetry! It might be that half of them are nonsense, or maybe more, but isn't that just a reflection of the creative process? As thinkers, as creators, we have so many thoughts everyday--more than half of them are definitely nonsense. This is the same. We're asking you to find those few lines of beauty in the nonsense, and create meaning where there seems to be none. It's an exercise in creativity and compassion. Like finding shapes in clouds. Like drawing constellations. There's something magic in these generated lines, if you're willing to look. Some lost inspiration, if you're willing to find it. It might just take generating and regenerating these lines a few times.
