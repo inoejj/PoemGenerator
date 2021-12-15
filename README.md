@@ -9,3 +9,33 @@ The hope of this is that it'll help you follow in the footsteps of Hemingway's w
 # The Basics
 We've provided a sample text file containing all of Shakespeare's work for you to play around with and generate your own lines of poetry from. All you need to do is download the Python file and run it! If you're interested in taking a look at the code itself, and learning a bit of Python in the process, the easiest way is to use Google Colab through any Google account you might have. To run each annotated block of code, either press the 'play' button in the top left corner of a block, or click inside the text of a block and hit the keys CTRL+ENTER. You're free to use any other text files you might be interested in playing with, whether it be T.S. Eliot's *The Wasteland* or excerpts from your own personal writings, and you're welcome to change both the number of lines generated and the number of words per line. 
 
+# Examples
+Generated from the sample file of Shakespeare's collected words:  
+
+`life is flint to us`
+
+`I am one of revels sir`
+
+`even from Verona here whose souls past`
+
+`art thou well read in wishes`
+
+`axe fall exeunt scene`
+
+Generated from T.S. Eliot's *The Wasteland*:
+
+`and waiting masked my end great`
+
+`nymphs are bad cold nevertheless is she there`
+
+Generated from our personal writing:
+
+`edge of summers gone sharp`
+
+`old times you're missing you follow`
+
+`constellations curling close like two steps`
+
+`losing their shared midnight`
+
+`only the roadmap to see something true`
