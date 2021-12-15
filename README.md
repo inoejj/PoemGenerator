@@ -3,7 +3,7 @@
 
 Have fun generating poetry! It might be that half of them are nonsense, or maybe more, but isn't that just a reflection of the creative process? As thinkers, as creators, we have so many thoughts everyday--more than half of them are definitely nonsense. This is the same. We're asking you to find those few lines of beauty in the nonsense, and create meaning where there seems to be none. It's an exercise in creativity and compassion. Like finding shapes in clouds. Like drawing constellations. There's something magic in these generated lines, if you're willing to look. Some lost inspiration, if you're willing to find it. It might just take generating and regenerating these lines a few times.
 
-The hope of this is that it'll help you follow in the footsteps of Hemingway's words. Perhaps it's the goal of every writer: *to write the truest sentence you know.*
+The hope of this is that it'll help you follow in the footsteps of Hemingway's words. Perhaps it's the hope of every writer: *to write the truest sentence you know.*
 
 
 # The Basics
