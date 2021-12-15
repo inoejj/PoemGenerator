@@ -17,30 +17,34 @@ We've provided a sample text file containing all of Shakespeare's work for you t
 # Examples
 Generated from the sample file of Shakespeare's collected words:  
 
-`life is flint to us`
+`art thou well read in wishes`
 
 `I am one of revels sir`
 
-`even from Verona here whose souls past`
+`life is flint to us`
 
-`art thou well read in wishes`
+`even from Verona here whose souls past`
 
 `axe fall exeunt scene`
 
 Generated from T.S. Eliot's *The Wasteland*:
 
-`and waiting masked my end great`
+`wall and reforms and i tiresias old man fear death`
 
-`nymphs are bad cold nevertheless is she there`
+`human engine waits like a closed car at morning striding`
+
+`bones in the dead sound of this and when invited`
+
+`and waiting masked my end great`
 
 Generated from our personal writing:
 
 `edge of summers gone sharp`
 
-`old times you're missing you follow`
-
 `constellations curling close like two steps`
 
 `losing their shared midnight`
+
+`old times you're missing you follow`
 
 `only the roadmap to see something true`
